@@ -8,3 +8,4 @@ fourth_var =3
 
 third_var = first_var + second_var
 fifth_var = third_var*fourth_var
+sixth_var = first_var
